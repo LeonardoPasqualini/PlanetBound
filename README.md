@@ -11,3 +11,5 @@ Algumas regras foram alteradas a fim de facilitar a programação, visto que tra
 - Número de eventos reduzido pela metade e sem repetições;
 - O utilizador tem a opção  (para efeito de debug) qual evento pode acontecer ou escolha aleatória;
 - Foi acrescentado logs para melhor acompanhar o andamento do jogo.
+
+Esta parte está implementada com interface de texto. Futuramente pretende-se colocar uma interface gráfica em Java-FX.
