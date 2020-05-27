@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="2">
+        <file>
+            <url>src/planetbound/logica/estados/ExploraPlaneta.java</url>
+            <bookmark id="2">
+                <name/>
+                <line>178</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/planetbound/iu/gui/TextUI.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>49</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Desktop/2-2/PA/TP/PlanetBound/src/planetbound/logica/estados/ExploraPlaneta.java</file>
+            <file>file:/D:/Desktop/2-2/PA/TP/PlanetBound/src/planetbound/logica/estados/Adapter.java</file>
+            <file>file:/D:/Desktop/2-2/PA/TP/PlanetBound/src/planetbound/iu/gui/TextUI.java</file>
+            <file>file:/D:/Desktop/2-2/PA/TP/PlanetBound/src/planetbound/logica/estados/EstacaoEspacial.java</file>
+            <file>file:/D:/Desktop/2-2/PA/TP/PlanetBound/src/planetbound/logica/dados/Grid.java</file>
+            <file>file:/D:/Desktop/2-2/PA/TP/PlanetBound/src/planetbound/logica/PlanetBound.java</file>
+            <file>file:/D:/Desktop/2-2/PA/TP/PlanetBound/src/planetbound/logica/dados/GameData.java</file>
+            <file>file:/D:/Desktop/2-2/PA/TP/PlanetBound/src/planetbound/logica/dados/Constantes.java</file>
+            <file>file:/D:/Desktop/2-2/PA/TP/PlanetBound/src/planetbound/logica/estados/IState.java</file>
+            <file>file:/D:/Desktop/2-2/PA/TP/PlanetBound/src/planetbound/logica/estados/OrbitaPlaneta.java</file>
+        </group>
+    </open-files>
+</project-private>
